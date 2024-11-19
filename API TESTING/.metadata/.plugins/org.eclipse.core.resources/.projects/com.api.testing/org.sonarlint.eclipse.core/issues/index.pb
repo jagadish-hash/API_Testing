@@ -1,0 +1,21 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+^
+.src/test/java/com/api/testing/HttpMethods.java,0\7\07ab016d80b2bfc9e79dfcd075f9baa28966c1e4
+d
+4src/test/java/rest/assured/day2/PostRequestPOJO.java,0\f\0f5e7349172bb252c611366efcd96248f538187d
+9
+	body.json,8\a\8a1ed3c5a27f8d0bcfc71bb1e191bf84124042e8
+u
+Esrc/test/java/rest/assured/day2/DifferentWaysToCreatePostReqBody.java,7\2\72b677b4eafa870daa3ef9283bbeedf9327337a2
+k
+;src/test/java/rest/assured/day3/PathAndQueryParameters.java,4\7\4796c96ffff04b79aab87f930b210b1990455b50
+\
+,src/test/java/rest/assured/day3/Cookies.java,3\b\3b9328fffee6ce98935c5dbc229de63cef715116
+]
+-src/test/java/rest/assured/day3/TestLogs.java,4\3\436f2ccfc10d2e05e2f1545efc876c1f771a0de4
+`
+0src/test/java/rest/assured/day3/TestHeaders.java,a\5\a53e388c7b4977d0b91711197c7e395c48fd7c77
+l
+<src/test/java/rest/assured/day4/ParsingJsonResponseData.java,d\e\de7519fa316af3d1ff959fc1e6d0de65ea0d87d2

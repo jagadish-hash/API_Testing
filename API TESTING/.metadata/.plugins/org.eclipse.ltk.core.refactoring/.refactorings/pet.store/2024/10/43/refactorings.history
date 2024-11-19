@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;pet.store.endpoints.Roots&apos; to &apos;Routes&apos;&#x0D;&#x0A;- Original project: &apos;pet.store&apos;&#x0D;&#x0A;- Original element: &apos;pet.store.endpoints.Roots&apos;&#x0D;&#x0A;- Renamed element: &apos;pet.store.endpoints.Routes&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Roots&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;pet.store.endpoints{Roots.java[Roots" matchStrategy="1" name="Routes" qualified="false" references="true" similarDeclarations="false" stamp="1729678925989" textual="false" version="1.0"/>
+</session>

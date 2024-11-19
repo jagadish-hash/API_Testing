@@ -1,0 +1,35 @@
+{
+	
+  "students": [
+    {
+      "id": "1",
+      "name": "jagadish",
+      "location": "Tumkur",
+      "phone": "23456789",
+      "courses": [
+        "java",
+        "selenium"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "ramesh",
+      "location": "Bangalore",
+      "phone": "098765432",
+      "courses": [
+        "java",
+        "selenium"
+      ]
+    },
+    {
+      "id": "9b3b",
+      "name": "Shiva",
+      "location": "Hubli",
+      "phone": "567876567",
+      "courses": [
+        "java",
+        "springboot"
+      ]
+    }
+  ]
+}

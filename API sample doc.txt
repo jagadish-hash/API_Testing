@@ -1,0 +1,41 @@
+Go Rest API:
+
+Token=0575f6734ae3bba219b1cc5bcf3e5826ec1bd736cdcabf7afa73f3b98cdfbedd
+
+
+
+End Point API:
+
+https://gorest.co.in/
+POST: /public/v2/users
+GET: /public/v2/users/6940878	
+PUT|PATCH: /public/v2/users/6940878	
+DELETE: /public/v2/users/6940878
+
+Request Body:
+{
+"name":"Soma",
+ "gender":"male", 
+ "email":"soma@gmail.com",
+ "status":"active"
+ }
+ 
+ 
+ Books API:
+ 
+ Token: 7949c2cc8ca71be56fdef315583d6ba4299e7c04d044ad2b75d5b386be970a6d
+ 
+ {
+    "created": true,
+    "orderId": "4ZDegHUtxBAZAceERCYjR"
+}
+
+
+GET: https://reqres.in/api/users/2
+
+POST: https://reqres.in/api/users
+
+{
+    "name": "morpheus",
+    "job": "leader"
+}

@@ -1,0 +1,10 @@
+{
+    
+      "name": "alpha1",
+      "location": "Raichur",
+      "phone": "34567876543",
+      "courses": [
+        "java",
+        "testNG"
+      ]
+    }
